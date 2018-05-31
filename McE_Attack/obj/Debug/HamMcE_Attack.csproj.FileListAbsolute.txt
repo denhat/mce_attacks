@@ -1,0 +1,9 @@
+C:\PROJECTS\HamMcE_Attack\HamMcE_Attack\bin\Debug\HamMcE_Attack.exe.config
+C:\PROJECTS\HamMcE_Attack\HamMcE_Attack\obj\Debug\HamMcE_Attack.csprojResolveAssemblyReference.cache
+C:\PROJECTS\HamMcE_Attack\HamMcE_Attack\obj\Debug\HamMcE_Attack.MainForm.resources
+C:\PROJECTS\HamMcE_Attack\HamMcE_Attack\obj\Debug\HamMcE_Attack.Properties.Resources.resources
+C:\PROJECTS\HamMcE_Attack\HamMcE_Attack\obj\Debug\HamMcE_Attack.csproj.GenerateResource.Cache
+C:\PROJECTS\HamMcE_Attack\HamMcE_Attack\bin\Debug\HamMcE_Attack.exe
+C:\PROJECTS\HamMcE_Attack\HamMcE_Attack\bin\Debug\HamMcE_Attack.pdb
+C:\PROJECTS\HamMcE_Attack\HamMcE_Attack\obj\Debug\HamMcE_Attack.exe
+C:\PROJECTS\HamMcE_Attack\HamMcE_Attack\obj\Debug\HamMcE_Attack.pdb
