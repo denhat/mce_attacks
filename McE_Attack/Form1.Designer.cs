@@ -103,11 +103,11 @@
             // 
             this.cbox_cslist.FormattingEnabled = true;
             this.cbox_cslist.Items.AddRange(new object[] {
-            "Hamming-McElice",
-            "Hamming-McElice-Sid",
-            "RM-McElice",
-            "RM-McElice-Sid",
-            "RM-McElice-Wish"});
+            "Hamming-McEliece",
+            "Hamming-McEliece-Sid",
+            "RM-McEliece",
+            "RM-McEliece-Sid",
+            "RM-McEliece-Wish"});
             this.cbox_cslist.Location = new System.Drawing.Point(16, 13);
             this.cbox_cslist.Name = "cbox_cslist";
             this.cbox_cslist.Size = new System.Drawing.Size(297, 24);
